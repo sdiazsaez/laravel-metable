@@ -2,7 +2,7 @@
     "name": "freshwork/metable",
     "description": "Add metadata to your eloquent models",
     "require": {
-        "laravel/framework": "~5.2"
+        "laravel/framework": "~5.2|^6.0|^7.0|^8.0"
     },
     "autoload": {
         "psr-4": {
